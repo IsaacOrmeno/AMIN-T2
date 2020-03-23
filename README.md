@@ -30,5 +30,5 @@ $ git clone https://github.com/IsaacOrmeno/AMIN-T2.git
 $ cd AMIN-T1 
 ~~~
 ~~~
- $ python3.6 AlgoritmoGenetico_NQueens.py "name_file" "evaporation_rate" "number_iterations" "number_ants" "heuristic_coefficient" "q0" 
+ $ python3.6 AntColonyOptimization.py "name_file" "evaporation_rate" "number_iterations" "number_ants" "heuristic_coefficient" "q0" 
 ~~~
